@@ -39,8 +39,8 @@ A Python script to check the deliverability of email addresses by:
 
 1. **Clone or Download the Repository**  
    ```bash
-   git clone https://github.com/YourUsername/your-repo.git
-   cd your-repo
+   git clone https://github.com/mattlawlis/SMTP-Email-Verifier.git
+   cd SMTP-Email-Verifier
    ```
 
 2. **Install Dependencies**  
